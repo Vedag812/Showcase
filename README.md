@@ -9,12 +9,6 @@ The entire application is fully responsive, ensuring a seamless experience on an
 ## 🔹 Live Demo
 ✨ [View Live Project on Vercel](https://portfolio-showcase-8qmz7mlxf-vedag812s-projects.vercel.app/) ✨
 
----
-
-## 📸 Sneak Peek
-*(Consider adding a screenshot or GIF of your project here!)*
-
----
 
 ## 🌟 Features
 
